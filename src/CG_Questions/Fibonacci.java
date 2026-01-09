@@ -1,7 +1,5 @@
 package CG_Questions;
 
-import java.util.Scanner;
-
 public class Fibonacci {
     public static void main(String[] args) {
         int n = 5;
